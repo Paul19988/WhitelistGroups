@@ -1,0 +1,11 @@
+name: ${project.name}
+author: ${project.author}
+version: ${project.version}
+main: ${project.mainClass}
+api-version: 1.16
+
+commands:
+  gwhitelist:
+    description: "Group Whitelist Command"
+  swhitelist:
+    description: "Set Whitelist Status"
